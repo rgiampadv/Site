@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "RGF Advocacia | Specialized Legal Advisory",
+    "description": "Law firm specialized in Civil, Labor, Social Security and Business Law. Personalized and dedicated service."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "areas": "Practice Areas",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Specialized Legal Advisory",
+    "subtitle": "Committed to defending your rights and interests with integrity, ethics and dedication.",
+    "cta": "Contact Us"
+  },
+  "about": {
+    "sectionTitle": "About the Firm",
+    "paragraph1": "RGF Advocacia is a firm committed to excellence in legal services. We act with integrity, ethics and dedication in defending the rights and interests of our clients.",
+    "paragraph2": "With experience in various areas of Law, we offer personalized service and efficient legal solutions, always guided by transparency and the pursuit of the best results.",
+    "oab": "OAB/SP"
+  },
+  "areas": {
+    "sectionTitle": "Practice Areas",
+    "civil": {
+      "title": "Civil Law",
+      "description": "Contracts, civil liability, consumer rights, real estate law and property matters."
+    },
+    "labor": {
+      "title": "Labor Law",
+      "description": "Labor claims, terminations, worker rights and corporate advisory."
+    },
+    "social_security": {
+      "title": "Social Security Law",
+      "description": "Retirement, disability benefits, death pension and INSS benefit reviews."
+    },
+    "business": {
+      "title": "Business Law",
+      "description": "Company formation, business contracts, judicial recovery and corporate consulting."
+    }
+  },
+  "contact": {
+    "sectionTitle": "Get in Touch",
+    "description": "We are ready to assist you. Contact us via WhatsApp or fill out the form below.",
+    "whatsapp": "Chat on WhatsApp",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "Your email",
+    "messagePlaceholder": "Briefly describe your needs...",
+    "send": "Send Message",
+    "sent": "Message sent successfully!"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "lgpd": "This site complies with the Brazilian General Data Protection Law (LGPD). Your personal data is treated with security and confidentiality.",
+    "oabNotice": "Firm registered with OAB/SP. Operating in compliance with the OAB Code of Ethics and Discipline."
+  }
+}

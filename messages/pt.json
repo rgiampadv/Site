@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "RGF Advocacia | Assessoria Juridica Especializada",
+    "description": "Escritorio de advocacia especializado em Direito Civil, Trabalhista, Previdenciario e Empresarial. Atendimento personalizado e dedicado."
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre",
+    "areas": "Areas de Atuacao",
+    "contact": "Contato"
+  },
+  "hero": {
+    "title": "Assessoria Juridica Especializada",
+    "subtitle": "Comprometidos com a defesa dos seus direitos e interesses, com seriedade, etica e dedicacao.",
+    "cta": "Fale Conosco"
+  },
+  "about": {
+    "sectionTitle": "Sobre o Escritorio",
+    "paragraph1": "A RGF Advocacia e um escritorio comprometido com a excelencia na prestacao de servicos juridicos. Atuamos com seriedade, etica e dedicacao na defesa dos direitos e interesses de nossos clientes.",
+    "paragraph2": "Com experiencia em diversas areas do Direito, oferecemos atendimento personalizado e solucoes juridicas eficientes, sempre pautados pela transparencia e pela busca dos melhores resultados.",
+    "oab": "OAB/SP"
+  },
+  "areas": {
+    "sectionTitle": "Areas de Atuacao",
+    "civil": {
+      "title": "Direito Civil",
+      "description": "Contratos, responsabilidade civil, direito do consumidor, direito imobiliario e questoes patrimoniais."
+    },
+    "labor": {
+      "title": "Direito Trabalhista",
+      "description": "Reclamacoes trabalhistas, rescisoes, direitos do trabalhador e assessoria a empresas."
+    },
+    "social_security": {
+      "title": "Direito Previdenciario",
+      "description": "Aposentadorias, beneficios por incapacidade, pensao por morte e revisao de beneficios do INSS."
+    },
+    "business": {
+      "title": "Direito Empresarial",
+      "description": "Constituicao de empresas, contratos empresariais, recuperacao judicial e consultoria corporativa."
+    }
+  },
+  "contact": {
+    "sectionTitle": "Entre em Contato",
+    "description": "Estamos prontos para atende-lo. Entre em contato pelo WhatsApp ou preencha o formulario abaixo.",
+    "whatsapp": "Chamar no WhatsApp",
+    "namePlaceholder": "Seu nome",
+    "emailPlaceholder": "Seu e-mail",
+    "messagePlaceholder": "Descreva brevemente sua necessidade...",
+    "send": "Enviar Mensagem",
+    "sent": "Mensagem enviada com sucesso!"
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados.",
+    "lgpd": "Este site respeita a Lei Geral de Protecao de Dados (LGPD). Seus dados pessoais sao tratados com seguranca e sigilo.",
+    "oabNotice": "Escritorio inscrito na OAB/SP. Atuacao em conformidade com o Codigo de Etica e Disciplina da OAB."
+  }
+}
